@@ -1,0 +1,29 @@
+h1 {
+    color:rgb(0, 162, 255);
+}
+h2 {
+    color:aquamarine;
+}
+#Hi h2 {
+    color: rebeccapurple;
+}
+.articles{
+    display: flex;
+}
+
+.articles article img {
+    width: 180px;
+}
+
+.articles article{
+    width: 50%;
+}
+header{
+    display: inline;
+}
+
+.container{
+    color: gray;
+    width: 1366px;
+    margin: 0 auto 0 auto;
+}
